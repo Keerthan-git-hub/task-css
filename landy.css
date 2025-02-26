@@ -1,0 +1,189 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(60, 7, 110);
+}
+#navbar > .head2{
+    display: flex;
+    align-items: center;
+    column-gap: 90px;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+.head2 > a{
+    text-decoration: none;
+    font-family:Verdana;
+    font-weight: 100;
+}
+.head2 > span{
+    background-color:rgb(60, 7, 110) ;
+    padding: 10px 30px;
+    color: white;
+    font-family: rockwell;
+    box-shadow: 3px 3px 5px rgb(85, 75, 75);
+}
+#navbar1{
+    display: flex;
+    justify-content: space-around;
+    margin: 120px 200px;
+}
+.template{
+    margin-right: 70px;
+}
+.template > h1{
+    color: darkblue;
+    font-size: 60px;
+}
+.template > p{
+    color: darkblue;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: 'Arial', sans-serif;
+}
+.template > .explore{
+    background-color:rgb(60, 7, 110) ;
+    padding: 8px 45px;
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow:3px 3px 5px rgb(85, 75, 75) ;
+    position: relative;
+    top: 30px;
+}
+.template > .learnmore{
+    padding: 8px 28px;
+    font-size: 20px;
+    color: rgb(60, 7, 110);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow:5px 5px 10px rgb(85, 75, 75) ;
+    position: relative;
+    top: 30px;
+    left: 15px;
+}
+
+#navbar1 > img{
+    width: 500px;
+}
+#navbar2{
+    margin: 250px 500px;
+}
+#navbar2 > h1{
+    color: darkblue;
+    font-size: 60px;
+    text-align: center;
+}
+#navbar2 > p{
+    color: darkblue;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+#navbar2 > .getstart{
+    background-color:rgb(60, 7, 110) ;
+    padding: 8px 45px;
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow:3px 3px 5px rgb(85, 75, 75) ;
+    position: relative;
+    left: 160px;
+    top: 30px;
+}
+#navbar3{
+    display: flex;
+    margin: 0px 200px;
+    column-gap: 70px;
+}
+#navbar3 > img{
+    width: 500px;
+}
+.lightnfast > h1{
+    color: darkblue;
+    font-size: 60px;
+}
+.lightnfast > p{
+    color: darkblue;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: 'Arial', sans-serif;   
+}
+.note{
+    display: flex;
+    column-gap: 300px;
+}
+.note > img{
+    width: 13%;
+}
+.data{
+    display: flex;
+    column-gap: 30px;
+}
+.data > .p2{
+    font-size: 15px;
+}
+#navbar4{
+    display: flex;
+    justify-content: space-around;
+    margin: 300px 200px;
+    column-gap: 70px;
+}
+.ready > h1{
+    color: darkblue;
+    font-size: 60px;
+}
+.ready > p{
+    color: darkblue;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: 'Arial', sans-serif; 
+}
+#navbar5{
+    display: flex;
+    justify-content: space-around;
+    margin: 300px 200px;
+    column-gap: 70px;
+}
+#navbar5 > img{
+    width: 500px;
+}
+.aboutit > h1{
+    color: darkblue;
+    font-size: 60px;
+}
+.aboutit > p{
+    color: darkblue;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: 'Arial', sans-serif; 
+}
+#navbar6{
+    display: flex;
+    justify-content: space-around;
+    margin: 300px 200px;
+    column-gap: 70px;
+}
+.contactform{
+    margin-top: 90px;
+}
+.contactform > h1{
+    color: darkblue;
+    font-size: 60px;
+}
+.contactform > p{
+    color: darkblue;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: 'Arial', sans-serif; 
+}
+.contactinfo > input{
+    width: 500px;
+    height: 70px;
+    background-color: rgba(241, 242, 243, 0.685);
+    border: none;
+}
+.contactinfo > .messagetext{
+    height: 200px;
+}
+
